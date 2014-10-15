@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "quad.h"
-#include "get_input.h"
 
 int get_input(Values *val) {
   
@@ -13,9 +11,6 @@ int get_input(Values *val) {
     return -1;
   }
     
-  val->a = a;
-  val->b = b;
-  val->c = c;
   fseek(stdin,0,SEEK_END);
   return 0;
 }
