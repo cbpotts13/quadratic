@@ -1,0 +1,41 @@
+In basic algebra, the quadratic formula is the solution of the quadratic equation. There are other ways to solve the quadratic equation instead of using the quadratic formula, such as factoring, completing the square, or graphing. Using the quadratic formula is often the most convenient way.
+
+The general quadratic equation is
+
+ax^2+bx+c=0.
+Here x represents an unknown, and a, b, and c are constants with a not equal to 0. One can verify that the quadratic formula satisfies the quadratic equation, by inserting the former into the latter. Each of the solutions given by the quadratic formula is called a root of the quadratic equation.
+
+
+Derivation of the formula[edit]
+Once a student understands how to complete the square, they can then derive the quadratic formula.[1][2] For that reason, the derivation is sometimes left as an exercise for the student, who can thereby experience rediscovery of this important formula.[3][4] The explicit derivation is as follows.
+
+Divide the quadratic equation by a, which is allowed because a is non-zero:
+
+x^2 + \frac{b}{a} x + \frac{c}{a}=0.
+Subtract c/a from both sides of the equation, transforming it into the form
+
+x^2 + \frac{b}{a} x= -\frac{c}{a}.
+
+
+The quadratic equation is now in a form to which the method of completing the square can be applied. To "complete the square", add a constant to both sides of the equation such that the left hand side becomes a complete square:
+
+x^2+\frac{b}{a}x+\left( \frac{b}{2a} \right)^2 =-\frac{c}{a}+\left( \frac{b}{2a} \right)^2,
+which produces
+
+\left(x+\frac{b}{2a}\right)^2=-\frac{c}{a}+\frac{b^2}{4a^2}
+or (after rearranging the terms on the right hand side to have a common denominator)
+
+\left(x+\frac{b}{2a}\right)^2=\frac{b^2-4ac}{4a^2}.
+The square has thus been completed, as shown in the figure. Taking the square root of both sides yields
+
+x+\frac{b}{2a}=\pm\frac{\sqrt{b^2-4ac\ }}{2a}.
+Isolating x gives the quadratic formula:
+
+x=\frac{-b\pm\sqrt{b^2-4ac\ }}{2a}.
+The plus-minus symbol "±" indicates that both
+
+ x=\frac{-b + \sqrt {b^2-4ac}}{2a}\quad\text{and}\quad x=\frac{-b - \sqrt {b^2-4ac}}{2a}
+are solutions of the quadratic equation.[5] There are many alternatives of this derivation with minor differences, mostly concerning the manipulation of a.
+
+Some sources, particularly older ones, use alternative parameterizations of the quadratic equation such as ax^2-2bx+c=0 [6] or ax^2+2bx+c=0,[7] where b has a magnitude one half of the more common one. These result in slightly different forms for the solution, but are otherwise equivalent.
+
