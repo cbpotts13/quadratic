@@ -1,3 +1,3 @@
 quadratic
 =========
-A simgple quadratic equation solver
+A simple quadratic equation solver
